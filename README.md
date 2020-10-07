@@ -4,6 +4,7 @@
  <head>
   <meta charest="utf-8"/>
   我是谁？
+  p {background-color: gray; padding: 20px;}
   <link href="C:\Users\86152\Desktop\html5up-future-imperfect"rel="stylesheet"type="text/css"/>
  </head>
  <body>
@@ -30,6 +31,6 @@
    <p>还喜欢跳街舞，虽然这个假期才刚刚入门</P>
   <h4>世界观</h4>
   <p></p>
-  
+ p {background-color: gray; padding: 20px;} 
  </body>
   
